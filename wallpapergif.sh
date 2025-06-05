@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
  
 #================================================#
 # Simple script for animated wallpaper in feh. V2
